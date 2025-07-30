@@ -1,2 +1,2 @@
 # Git Merge Exercise
-Release fixes (new changes)
+Bug fix for critical issue (master new changes)
